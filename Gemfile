@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "html-proofer", "~>3.19.4"
+gem "html-proofer", "~>3.16.0"
 #group :test do
 #  gem "html-proofer", "~> 3.18"
 #end
