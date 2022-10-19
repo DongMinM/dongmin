@@ -3,13 +3,16 @@
 -
   type: github
   icon: 'fab fa-github'
+  url: 'https://github.com/DongMinM/dongmin'
 -
   type: twitter
   icon: 'fab fa-twitter'
+  url: 'None'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
+  url: 'emoonjy@naver.com'
 -
   type: rss
   icon: 'fas fa-rss'
