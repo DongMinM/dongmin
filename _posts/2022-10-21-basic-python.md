@@ -2,7 +2,7 @@
 title : Python 시작하기
 
 date : 2022-10-21
-categories : [Python, basic]
+categories : [Python, basic python]
 tags : [python]
 toc : true
 
