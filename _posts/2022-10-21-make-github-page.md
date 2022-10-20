@@ -6,8 +6,6 @@ tags : [Github]
 ---
 
 
-# Github Page 만들기
----
 <body>안녕하세요! Github Page 만드는 방법을 소개하려고 합니다.</body>
 
 ##  개요
