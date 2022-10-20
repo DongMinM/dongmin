@@ -9,6 +9,9 @@ toc : true
 ---
 
 ## Content 1
-
+```python
+test
+int a = 3
+```
 ## Content 2
 
