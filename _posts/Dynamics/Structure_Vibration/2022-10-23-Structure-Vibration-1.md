@@ -27,17 +27,14 @@ image : true
 
 <div class = 'text-center'>
     <span style="font-size:180%">
-        $$f_k = ku $$ </span>
+        $$f_s = ku $$ </span>
     <span style='font-size:110%'>
         $k$ : 스프링 상수 $[N/m]$ <br>
         $u$ : 변위 $[m]$ <br>
         $f$ : 외력 $[N]$ <br>
     </span>
 </div>
-
-<img class="fit-picture"
-    src="sp.jpg"
-    alt='abs' width='50' height='30' >
+![spring](https://user-images.githubusercontent.com/97388110/197399446-8d042f3e-fcf0-4a8d-a1ad-993cba2efdd0.png){: width="80%" height="80%"}
 
 >
 ### **Damper**
