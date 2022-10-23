@@ -33,7 +33,7 @@ math : true
     </span>
 </div>
 
-![test](./spring.png "Title")
+![test](_posts/Dynamics/Structure_Vibration/spring.png "Title")
 
 >
 ### **Damper**
