@@ -6,10 +6,16 @@ date : 2022-10-21
 categories : ["Linear algebra","basic linear algebra"]
 tags : ["math","Linear algebra"]
 toc : true
-
+math: true
 ---
 
 ## Content 1
+
+$$
+\begin{bmatrix} 1&0\\0&1\\  \end{bmatrix}
+\begin{pmatrix} 1&0\\0&1\\  \end{pmatrix} = 
+\begin{bmatrix} 1&0\\0&1\\  \end{bmatrix}
+$$
 
 ## Content 2
 
