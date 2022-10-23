@@ -33,7 +33,7 @@ math : true
     </span>
 </div>
 
-![test](_posts/Dynamics/Structure_Vibration/spring.png "Title")
+![테스트이미지](https://github.com/DongMinM/dongmin/blob/main/_posts/Dynamics/Structure_Vibration/spring.png)
 
 >
 ### **Damper**
