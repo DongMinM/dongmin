@@ -20,6 +20,7 @@ math : true
 
 # 진동 구조체 모델링
 ---
+
 >
 ### **Spring** :  
 
@@ -33,7 +34,7 @@ math : true
     </span>
 </div>
 
-![으](/assets/img/spring.png)
+![으](/https://github.com/DongMinM/dongmin/blob/main/assets/img/spring.png)
 
 >
 ### **Damper**
