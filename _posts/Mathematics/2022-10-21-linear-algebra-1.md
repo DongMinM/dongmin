@@ -1,5 +1,5 @@
 ---
-title : 기초선형대수
+title : 기초선형대수 Chap.1
 excerpt : test
 
 date : 2022-10-21
