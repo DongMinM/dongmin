@@ -8,6 +8,8 @@ math : true
 ---
 
 # Chap2. Free Vibration
+===
+
 ---
 
 > 
@@ -17,13 +19,13 @@ math : true
 
 
 # Free Vibration
+
+
 ---
 
 <div class="text_center">
     <span style="font-size:130%">
-        $$  
-        m\ddot{u}(t)+c\dot{u}(t)+ku(t)=p(t)
-        p(t) = 0
-        $$
+        $$m\ddot{u}(t)+c\dot{u}(t)+ku(t)=p(t) <br>$$
+        $$p(t) = 0$$
     </span>
 </div>
