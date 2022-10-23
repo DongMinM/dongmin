@@ -5,6 +5,7 @@ categories : [Dynamics, Structure Vibration]
 tags : [study, dynamics]
 toc : true
 math : true
+image : true
 ---
 
 # Introduction
@@ -34,7 +35,9 @@ math : true
     </span>
 </div>
 
-![으](/https://github.com/DongMinM/dongmin/blob/main/assets/img/spring.png)
+<img class="fit-picture"
+    src="sp.jpg"
+    alt='abs' width='50' height='30' >
 
 >
 ### **Damper**
