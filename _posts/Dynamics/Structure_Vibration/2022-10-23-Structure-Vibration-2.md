@@ -25,7 +25,7 @@ math : true
 
 <div class="text_center">
     <span style="font-size:130%">
-        $$m\ddot{u}(t)+c\dot{u}(t)+ku(t)=p(t) <br>$$
+        $$m\ddot{u}(t)+c\dot{u}(t)+ku(t)=p(t)$$
         $$p(t) = 0$$
     </span>
 </div>

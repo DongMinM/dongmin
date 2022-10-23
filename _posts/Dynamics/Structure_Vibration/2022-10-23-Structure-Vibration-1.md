@@ -21,11 +21,32 @@ math : true
 # 진동 구조체 모델링
 ---
 >
-**Spring** :  
+### **Spring** :  
 
+<div class = 'text-center'>
+    <span style="font-size:180%">
+        $$f_k = ku $$ </span>
+    <span style='font-size:110%'>
+        $k$ : 스프링 상수 $[N/m]$ <br>
+        $u$ : 변위 $[m]$ <br>
+        $f$ : 외력 $[N]$ <br>
+    </span>
+</div>
+
+![wow](./spring.png)
 
 >
-**Damper** :  
+### **Damper**
+
+<div class = 'text-center'>
+    <span style="font-size:180%">
+        $$f_c = c\dot{u} $$ </span>
+    <span style='font-size:110%'>
+        $c$ : 댐핑 계수 $[Ns/m]$ <br>
+        $\dot{u}$ : 변위 $[m]$ <br>
+        $f$ : 외력 $[N]$ <br>
+    </span>
+</div>
 
 >
 **Force** : 
