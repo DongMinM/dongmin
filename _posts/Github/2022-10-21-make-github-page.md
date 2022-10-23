@@ -1,8 +1,8 @@
 ---
 title : 깃허브(Github) page 만들기
 data : 2022-10-21 3:53
-categories : [Github,create a page]
-tags : [Github]
+categories : [Github,Creating a page]
+tags : [github,markdown]
 ---
 
 ---

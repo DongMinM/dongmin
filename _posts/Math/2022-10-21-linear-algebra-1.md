@@ -3,8 +3,8 @@ title : 기초선형대수
 excerpt : test
 
 date : 2022-10-21
-categories : ["Linear algebra","basic linear algebra"]
-tags : ["math","Linear algebra"]
+categories : ["Math","Linear algebra"]
+tags : ["math","linear algebra"]
 toc : true
 math: true
 ---
