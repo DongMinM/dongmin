@@ -33,7 +33,7 @@ math : true
     </span>
 </div>
 
-![wow](./spring.png)
+<!-- ![wow](./spring.png) -->
 
 >
 ### **Damper**
