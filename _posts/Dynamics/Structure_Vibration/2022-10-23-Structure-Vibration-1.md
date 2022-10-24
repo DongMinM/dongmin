@@ -44,7 +44,7 @@ image : true
         $$f_c = c\dot{u} $$ </span>
     <span style='font-size:110%'>
         $c$ : 댐핑 계수 $[Ns/m]$ <br>
-        $\dot{u}$ : 변위 $[m]$ <br>
+        $\dot{u}$ : 속도 $[m/s]$ <br>
         $f$ : 외력 $[N]$ <br>
     </span>
 </div>
