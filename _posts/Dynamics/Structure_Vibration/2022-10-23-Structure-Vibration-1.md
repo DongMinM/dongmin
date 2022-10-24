@@ -53,6 +53,18 @@ image : true
 >
 ### **Force** : <span style='font-size:90%'>_스프링에 가해지는 힘(외력)_</span>
 
+<div class = 'text-center'>
+    <span style="font-size:180%">
+        $$\displaystyle\sum_{}^{}{F} = m\ddot{u} $$ 
+        $$m\ddot{u}=F_s+F_c+F$$
+    </span>
+    <span style='font-size:110%'>
+        $F$ : 외력 $[N]$ <br>
+        $\ddot{u}$ : 변형 가속도 $[m/s^2]$ <br>
+        $m$ : 질량 $[kg]$ <br>
+    </span>
+</div>
+<br>
 # Newton's 2nd Law
 ---
 
