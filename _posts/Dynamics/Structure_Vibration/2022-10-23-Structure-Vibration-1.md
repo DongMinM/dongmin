@@ -12,7 +12,7 @@ image : true
 ---
 
 > 
-**Vibration?** : dfdsafd  
+**Vibration?** :
 <br>
 **Dynamics and Statics** :  
 <br>
@@ -23,11 +23,11 @@ image : true
 ---
 
 >
-### **Spring** :  구조체의 변형량에 비례하여, 변형에 저항하는 힘
+### **Spring** :  <span style='font-size:90%'>_구조체의 변형량에 비례하여, 변형에 저항하는 힘_</span>
 
 <div class = 'text-center'>
     <span style="font-size:180%">
-        $$f_s = ku $$ </span>
+        $$f_s = -ku $$ </span>
     <span style='font-size:110%'>
         $k$ : 스프링 상수 $[N/m]$ <br>
         $u$ : 변위 $[m]$ <br>
@@ -35,13 +35,13 @@ image : true
     </span>
 </div>
 <!-- ![spring](https://user-images.githubusercontent.com/97388110/197399618-7c0462cc-66d8-41ee-8801-806ee54f4e8f.png){: width="80%" height="80%"} -->
-
+<br>
 >
-### **Damper** : 구조체의 변형 속도에 비례하여, 변형에 저항하는 힘
+### **Damper** : <span style='font-size:90%'>_구조체의 변형 속도에 비례하여, 변형에 저항하는 힘_</span>
 
 <div class = 'text-center'>
     <span style="font-size:180%">
-        $$f_c = c\dot{u} $$ </span>
+        $$f_c = -c\dot{u} $$ </span>
     <span style='font-size:110%'>
         $c$ : 댐핑 계수 $[Ns/m]$ <br>
         $\dot{u}$ : 속도 $[m/s]$ <br>
@@ -50,7 +50,7 @@ image : true
 </div>
 
 >
-**Force** : 
+### **Force** : 스프링에 가해지는 힘
 
 # Examples
 ---
