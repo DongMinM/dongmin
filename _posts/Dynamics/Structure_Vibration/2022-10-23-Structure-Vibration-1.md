@@ -23,7 +23,7 @@ image : true
 ---
 
 >
-### **Spring** :  
+### **Spring** :  구조체의 변형량에 비례하여, 변형에 저항하는 힘
 
 <div class = 'text-center'>
     <span style="font-size:180%">
@@ -37,7 +37,7 @@ image : true
 <!-- ![spring](https://user-images.githubusercontent.com/97388110/197399618-7c0462cc-66d8-41ee-8801-806ee54f4e8f.png){: width="80%" height="80%"} -->
 
 >
-### **Damper**
+### **Damper** : 구조체의 변형 속도에 비례하여, 변형에 저항하는 힘
 
 <div class = 'text-center'>
     <span style="font-size:180%">
