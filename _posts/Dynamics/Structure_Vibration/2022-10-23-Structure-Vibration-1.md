@@ -50,7 +50,7 @@ image : true
 </div>
 
 >
-### **Force** : <span style='font-size:90%'>_스프링에 가해지는 힘_</span>
+### **Force** : <span style='font-size:90%'>_스프링에 가해지는 힘(외력)_</span>
 
 # Examples
 ---
