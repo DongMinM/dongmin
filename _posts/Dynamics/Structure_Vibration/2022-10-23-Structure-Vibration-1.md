@@ -34,7 +34,7 @@ image : true
         $f$ : 외력 $[N]$ <br>
     </span>
 </div>
-![spring](https://user-images.githubusercontent.com/97388110/197399618-7c0462cc-66d8-41ee-8801-806ee54f4e8f.png){: width="80%" height="80%"}
+<!-- ![spring](https://user-images.githubusercontent.com/97388110/197399618-7c0462cc-66d8-41ee-8801-806ee54f4e8f.png){: width="80%" height="80%"} -->
 
 >
 ### **Damper**
